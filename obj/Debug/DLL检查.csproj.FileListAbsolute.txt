@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\DLL批量检查工具\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\source\repos\DLL批量检查工具\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\source\repos\DLL批量检查工具\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\source\repos\DLL批量检查工具\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\DLL批量检查工具\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\工具.Form1.resources
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\EditConfigForm.progressForm.resources
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\DLL检查.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\DLL检查.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\WindowsFormsApp1.showDetail.resources
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\DLL检查.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DLL批量检查工具\obj\Debug\DLL检查.csproj.CopyComplete

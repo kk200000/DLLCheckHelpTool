@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL检查", "DLL检查.csproj", "{0B09F9B9-B273-471C-9324-5E0869688C31}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDLLCheck", "..\SetupDLLCheck\SetupDLLCheck.vdproj", "{253E5359-8862-476F-A136-2D9FC8351B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B09F9B9-B273-471C-9324-5E0869688C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B09F9B9-B273-471C-9324-5E0869688C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B09F9B9-B273-471C-9324-5E0869688C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B09F9B9-B273-471C-9324-5E0869688C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253E5359-8862-476F-A136-2D9FC8351B8F}.Debug|Any CPU.ActiveCfg = Debug
+		{253E5359-8862-476F-A136-2D9FC8351B8F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05321D3-A41A-47F9-A1CD-AFA9EAD7FB5E}
+	EndGlobalSection
+EndGlobal
