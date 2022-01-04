@@ -1,0 +1,26 @@
+[
+  {
+    "Ischecked": true,
+    "belong": "安装包_正式环境",
+    "BeLong": "安装包_正式环境",
+    "URL": "http://10.11.11.61/resource/download/project/file",
+    "appKey": "mecha",
+    "engineVersion": "2020.3.0"
+  },
+  {
+    "Ischecked": true,
+    "belong": "规则_测试环境",
+    "BeLong": "规则_测试环境",
+    "URL": "http://10.11.66.233/v1/api/download/project/update/file",
+    "appKey": "abyss",
+    "engineVersion": "2020.3.4"
+  },
+  {
+    "Ischecked": true,
+    "belong": "安装包_测试环境",
+    "BeLong": "安装包_测试环境",
+    "URL": "http://10.11.82.77:8787/resource/download/project/file",
+    "appKey": "abyss",
+    "engineVersion": "2019.3.4"
+  }
+]
